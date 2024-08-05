@@ -22,7 +22,7 @@ ul.addEventListener('click',(e)=>{
         }else if(index===2){
             alert('没有')
         }else if(index===3){
-            window.location.href=''
+            window.location.href='https://github.com/yangyin18/yang'
         }else if(index===4){
             alert('yangyin18')
         }
