@@ -3,6 +3,9 @@
     margin: 0;
     
 }
+body{
+    background-image: url(哈哈.jpg);
+}
 .home{
     background-image: url(哈哈.jpg);
     background-size: cover;
